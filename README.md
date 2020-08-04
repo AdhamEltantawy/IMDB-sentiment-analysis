@@ -11,9 +11,13 @@ This model can be applied in almost any given business to better process their c
 Several models were tested and I got the following accuracies:
 
 First Model --> unigram, stemming, remove stop-words, cleaning without removing numbers, Count Vectorizer and Logistic Regression  :  0.85712
+
 Second Model --> unigram, stemming, remove stop-words, cleaning with removing numbers, Count Vectorizer and Logistic Regression  :  0.85424
+
 Third Model --> bigram, stemming, remove stop-words, cleaning with removing numbers, Count Vectorizer and Logistic Regression  :  0.84548
+
 Forth Model --> bigram, stemming, cleaning with removing numbers, Count Vectorizer and Logistic Regression  :  0.87428
+
 Fifth Model --> bigram, lemma, cleaning with removing numbers, Count Vectorizer and Logistic Regression  :  0.87952
 
 
