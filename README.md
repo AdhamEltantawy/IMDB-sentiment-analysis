@@ -31,8 +31,11 @@ The dataset can be downloaded here : IMDB Dataset
 # Requirements:
 
 1- Python
+
 2- Pandas
+
 3- Numpy
+
 4- SkLearn
 
 Further requirements can be found in requirements.txt
